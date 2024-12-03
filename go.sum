@@ -1,2 +1,4 @@
 github.com/bilrik/go-aoc v0.0.0-20221202061712-b3712cc1d560 h1:Z6cxrNWr9bMHyVoDVPyAOlgls1KYLR3NYYUQwApuPo0=
 github.com/bilrik/go-aoc v0.0.0-20221202061712-b3712cc1d560/go.mod h1:vO89ZCEaJj30OV0Vzx41sSn8+PJ28cWC2kq1IQ0w+Cw=
+golang.org/x/text v0.20.0 h1:gK/Kv2otX8gz+wn7Rmb3vT96ZwuoxnQlY+HlJVj7Qug=
+golang.org/x/text v0.20.0/go.mod h1:D4IsuqiFMhST5bX19pQ9ikHC2GsaKyk/oF+pn3ducp4=
